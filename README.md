@@ -16,3 +16,9 @@ ftpJES2:
   - tcpip connect to jes2
   - submit jcl / upload sysout
   - option for jesinterface2
+
+files:
+- dasdbr5 source.rar - delphi source
+- dasdbr5 win bin.rar - dasdbr win exec
+- ftpjes2 souce and win exec
+  
