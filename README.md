@@ -2,7 +2,7 @@
 hercules emulator public windows utilities
 
 
-dasdbr5 : hercules dataset browse: (read only)
+dasdbr7 : hercules dataset browser
    
   - show ibm volume/vtoc/dataset/pds structures
   - read an show dataset
